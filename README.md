@@ -1,3 +1,3 @@
-# README #
+EcoSense is an autonomous device that will efficiently maintain and sustain a lawn.
 
-To run this program, execute "shouldwater.py" through the terminal.
+Made with Python.
